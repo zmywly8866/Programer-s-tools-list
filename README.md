@@ -290,3 +290,13 @@ Programer-s-tools-list
 <p>
 	Zealer<span style="font-family:宋体;">：</span><a href="http://www.zealer.com/"><span style="color:rgb(0, 0, 255);">http://www.zealer.com/</span></a>
 </p>
+
+<p>
+	<strong>22、屏幕取色工具：</strong>
+</p>
+<p>
+	Mindjet<span style="font-family:宋体;">：</span><a href="http://www.colorschemer.com/colorpix_info.php"><span style="color:rgb(0, 0, 255);">http://www.colorschemer.com/colorpix_info.php</span></a>
+</p>
+<p>
+	&nbsp;
+</p>
