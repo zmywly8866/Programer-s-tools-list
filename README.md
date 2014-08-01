@@ -18,6 +18,9 @@ Programer-s-tools-list
 	百度硬盘：<a href="http://disk.baidu.com/"><span style="color:rgb(0, 0, 255);">http://disk.baidu.com/</span></a>
 </p>
 <p>
+	Alfred(Mac)：<a href="http://www.alfredapp.com"><span style="color:rgb(0, 0, 255);">http://www.alfredapp.com</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 <p>
@@ -296,6 +299,25 @@ Programer-s-tools-list
 </p>
 <p>
 	ColorPix<span style="font-family:宋体;">：</span><a href="http://www.colorschemer.com/colorpix_info.php"><span style="color:rgb(0, 0, 255);">http://www.colorschemer.com/colorpix_info.php</span></a>
+</p>
+<p>
+	&nbsp;
+</p>
+
+<p>
+	<strong>23、其它：</strong>
+</p>
+<p>
+	Github for Windows(Github Windows客户端)<span style="font-family:宋体;">：</span><a href="https://windows.github.com"><span style="color:rgb(0, 0, 255);">https://windows.github.com</span></a>
+</p>
+<p>
+	F.lux(屏幕颜色自动调整工具)<span style="font-family:宋体;">：</span><a href="https://justgetflux.com"><span style="color:rgb(0, 0, 255);">https://justgetflux.com</span></a>
+</p>
+<p>
+	小孩桌面便签<span style="font-family:宋体;">：</span><a href="http://www.notesmaker.com"><span style="color:rgb(0, 0, 255);">http://www.notesmaker.com</span></a>
+</p>
+<p>
+	goagent(翻墙工具)<span style="font-family:宋体;">：</span><a href="http://code.google.com/p/goagent/"><span style="color:rgb(0, 0, 255);">http://code.google.com/p/goagent/</span></a>
 </p>
 <p>
 	&nbsp;
