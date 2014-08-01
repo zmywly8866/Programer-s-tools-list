@@ -308,16 +308,19 @@ Programer-s-tools-list
 	<strong>23、其它：</strong>
 </p>
 <p>
-	Github for Windows(Github Windows客户端)<span style="font-family:宋体;">：</span><a href="https://windows.github.com"><span style="color:rgb(0, 0, 255);">https://windows.github.com</span></a>
-</p>
-<p>
 	F.lux(屏幕颜色自动调整工具)<span style="font-family:宋体;">：</span><a href="https://justgetflux.com"><span style="color:rgb(0, 0, 255);">https://justgetflux.com</span></a>
 </p>
 <p>
-	小孩桌面便签<span style="font-family:宋体;">：</span><a href="http://www.notesmaker.com"><span style="color:rgb(0, 0, 255);">http://www.notesmaker.com</span></a>
+	goagent(翻墙工具)<span style="font-family:宋体;">：</span><a href="http://code.google.com/p/goagent/"><span style="color:rgb(0, 0, 255);">http://code.google.com/p/goagent/</span></a>
 </p>
 <p>
-	goagent(翻墙工具)<span style="font-family:宋体;">：</span><a href="http://code.google.com/p/goagent/"><span style="color:rgb(0, 0, 255);">http://code.google.com/p/goagent/</span></a>
+	Ditto(Windows 增强版剪贴板工具)<span style="font-family:宋体;">：</span><a href="http://ditto-cp.sourceforge.net"><span style="color:rgb(0, 0, 255);">http://ditto-cp.sourceforge.net</span></a>
+</p>
+<p>
+	FreeFileSync(Windows 文件同步工具)<span style="font-family:宋体;">：</span><a href="http://sourceforge.net/projects/freefilesync/"><span style="color:rgb(0, 0, 255);">http://sourceforge.net/projects/freefilesync/</span></a>
+</p>
+<p>
+	Altrun(快速启动软件)<span style="font-family:宋体;">：</span><a href="http://altrun.googlecode.com"><span style="color:rgb(0, 0, 255);">http://altrun.googlecode.com</span></a>
 </p>
 <p>
 	&nbsp;
