@@ -293,7 +293,9 @@ Programer-s-tools-list
 <p>
 	Zealer<span style="font-family:宋体;">：</span><a href="http://www.zealer.com/"><span style="color:rgb(0, 0, 255);">http://www.zealer.com/</span></a>
 </p>
-
+<p>
+	&nbsp;
+</p>
 <p>
 	<strong>22、屏幕取色工具：</strong>
 </p>
@@ -321,6 +323,9 @@ Programer-s-tools-list
 </p>
 <p>
 	Altrun(快速启动软件)<span style="font-family:宋体;">：</span><a href="http://altrun.googlecode.com"><span style="color:rgb(0, 0, 255);">http://altrun.googlecode.com</span></a>
+</p>
+<p>
+	Auto Hot Key(快捷键管理工具)<span style="font-family:宋体;">：</span><a href="http://www.autohotkey.com/"><span style="color:rgb(0, 0, 255);">http://www.autohotkey.com/</span></a>
 </p>
 <p>
 	&nbsp;
