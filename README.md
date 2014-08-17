@@ -333,3 +333,37 @@ Programer-s-tools-list
 <p>
 	&nbsp;
 </p>
+
+<p>
+	<strong>24、源码查找：</strong>
+</p>
+<p>
+	Appance<span style="font-family:宋体;">：</span><a href="http://www.appance.com/category/android/"><span style="color:rgb(0, 0, 255);">http://www.appance.com/category/android/</span></a>
+</p>
+<p>
+	Android Libraries and Resources<span style="font-family:宋体;">：</span><a href="http://alamkanak.github.io/android-libraries-and-resources/"><span style="color:rgb(0, 0, 255);">http://alamkanak.github.io/android-libraries-and-resources/</span></a>
+</p>
+<p>
+	The Android Arsenal<span style="font-family:宋体;">：</span><a href="http://android-arsenal.com/"><span style="color:rgb(0, 0, 255);">http://android-arsenal.com/</span></a>
+</p>
+<p>
+	Android Elements<span style="font-family:宋体;">：</span><a href="https://github.com/cesards/AndroidElementals"><span style="color:rgb(0, 0, 255);">https://github.com/cesards/AndroidElementals</span></a>
+</p>
+<p>
+	F-Droid<span style="font-family:宋体;">：</span><a href="https://f-droid.org/"><span style="color:rgb(0, 0, 255);">https://f-droid.org/</span></a>
+</p>
+<p>
+	Appbrain<span style="font-family:宋体;">：</span><a href="http://www.appbrain.com/"><span style="color:rgb(0, 0, 255);">http://www.appbrain.com/</span></a>
+</p>
+<p>
+	grepcode<span style="font-family:宋体;">：</span><a href="http://grepcode.com/"><span style="color:rgb(0, 0, 255);">http://grepcode.com/</span></a>
+</p>
+<p>
+	Java API Examples<span style="font-family:宋体;">：</span><a href="http://programcreek.com/java-api-examples/"><span style="color:rgb(0, 0, 255);">http://programcreek.com/java-api-examples/</span></a>
+</p>
+<p>
+	Android-Open-Project<span style="font-family:宋体;">：</span><a href="https://github.com/android-cn/android-open-project"><span style="color:rgb(0, 0, 255);">https://github.com/android-cn/android-open-project</span></a>
+</p>
+<p>
+	&nbsp;
+</p>
