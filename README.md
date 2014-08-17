@@ -328,5 +328,8 @@ Programer-s-tools-list
 	Auto Hot Key(快捷键管理工具)<span style="font-family:宋体;">：</span><a href="http://www.autohotkey.com/"><span style="color:rgb(0, 0, 255);">http://www.autohotkey.com/</span></a>
 </p>
 <p>
+	SourceCounter(代码行数统计工具)<span style="font-family:宋体;">：</span><a href="https://code.google.com/p/boomworks/wiki/SourceCounterCN"><span style="color:rgb(0, 0, 255);">https://code.google.com/p/boomworks/wiki/SourceCounterCN</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
