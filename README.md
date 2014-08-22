@@ -367,3 +367,51 @@ Programer-s-tools-list
 <p>
 	&nbsp;
 </p>
+<p>
+	<strong>25、找软件：</strong>
+</p>
+<p>
+	<a href="http://xbeta.info/" data-editable="true" data-title="善用佳软" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">善用佳软</a>
+</p>
+<p>
+	<a href="http://www.iplaysoft.com/" data-editable="true" data-title="异次元软件世界" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">异次元软件世界</a>
+</p>
+<p>
+	<a href="http://www.appinn.com/" data-editable="true" data-title="小众软件" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">小众软件</a>
+</p>
+<p>
+	<a href="http://www.playpcesor.com/" data-editable="true" data-title="電腦玩物" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">電腦玩物</a>
+</p>
+<p>
+	<a href="http://www.sand-ox.com/" data-editable="true" data-title="沙牛之家 | 专注于探索效率软件及网络营销" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">沙牛之家 | 专注于探索效率软件及网络营销</a>
+</p>
+<p>
+	<a href="http://www.syncoo.com/" data-editable="true" data-title="同步控 | 轻松同步 便携移动" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">同步控 | 轻松同步 便携移动</a>
+</p>
+<p>
+	<a href="http://www.iwanpc.com/" data-editable="true" data-title="爱玩电脑 | 关注流行IT资讯~分享实用,好用软件~传播电脑操作技巧~与你一起关注分享电脑带来的精彩！" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">爱玩电脑 | 关注流行IT资讯~分享实用,好用软件~传播电脑操作技巧~与你一起关注分享电脑带来的精彩！</a>
+</p>
+<p>
+	<a href="http://www.x-berry.com/" data-editable="true" data-title="软矿 - 工欲善其事，必先利其器！" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">软矿 - 工欲善其事，必先利其器！</a>
+</p>
+<p>
+	<a href="http://www.epinv.com/" data-editable="true" data-title="经典版式设计,包装设计,字体设计欣赏,最新平面设计软件,ps滤镜,在线书法字体,日韩文字体,coreldraw教程免费下载" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">经典版式设计,包装设计,字体设计欣赏,最新平面设计软件,ps滤镜,在线书法字体,日韩文字体,coreldraw教程免费下载</a>
+</p>
+<p>
+	<a href="http://www.x-hins.cn/" data-editable="true" data-title="爱软件-软件，让您更轻松" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">爱软件-软件，让您更轻松</a>
+</p>
+<p>
+	<a href="http://www.isofts.org/" data-editable="true" data-title="Mac软件、Mac游戏下载、iPhone软件下载以及iPhone游戏下载平台：Mac志" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">Mac软件、Mac游戏下载、iPhone软件下载以及iPhone游戏下载平台：Mac志</a>
+</p>
+<p>
+	<a href="http://www.bzdiao.com/" data-editable="true" data-title="不着调软件" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">不着调软件</a>
+</p>
+<p>
+	<a href="http://simnovo.net/" data-editable="true" data-title="Simnovo" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">Simnovo</a>
+</p>
+<p>
+	<a href="http://www.rjno1.com/" data-editable="true" data-title="软件No1首页 www.RJNo1.com" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">软件No1首页 www.RJNo1.com</a>
+</p>
+<p>
+	<a href="http://www.uisdc.com/category/hot-download/tools-download" data-editable="true" data-title="神器下载" style="color: rgb(34, 85, 153); text-decoration: none; -webkit-tap-highlight-color: rgba(225, 225, 225, 0.498039); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.7;">神器下载</a>
+</p>
