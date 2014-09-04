@@ -331,6 +331,9 @@ Programer-s-tools-list
 	SourceCounter(代码行数统计工具)<span style="font-family:宋体;">：</span><a href="https://code.google.com/p/boomworks/wiki/SourceCounterCN"><span style="color:rgb(0, 0, 255);">https://code.google.com/p/boomworks/wiki/SourceCounterCN</span></a>
 </p>
 <p>
+	PicPick(截屏)<span style="font-family:宋体;">：</span><a href="http://www.picpick.org/en/"><span style="color:rgb(0, 0, 255);">http://www.picpick.org/en/</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 
