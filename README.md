@@ -337,6 +337,9 @@ Programer-s-tools-list
 	tinypng(png图片压缩)<span style="font-family:宋体;">：</span><a href="https://tinypng.com/"><span style="color:rgb(0, 0, 255);">https://tinypng.com/</span></a>
 </p>
 <p>
+	LICEcap(屏幕录制生成gif动态图工具)<span style="font-family:宋体;">：</span><a href="http://www.cockos.com/licecap/"><span style="color:rgb(0, 0, 255);">http://www.cockos.com/licecap/</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 
