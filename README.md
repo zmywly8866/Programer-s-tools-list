@@ -346,6 +346,9 @@ Programer-s-tools-list
 	StrokeIt(鼠标手势工具)<span style="font-family:宋体;">：</span><a href="http://www.tcbmi.com/strokeit/"><span style="color:rgb(0, 0, 255);">http://www.tcbmi.com/strokeit/</span></a>
 </p>
 <p>
+	红杏(代理)<span style="font-family:宋体;">：</span><a href="http://honx.in/i/Utpj7IKo12ffBmGS"><span style="color:rgb(0, 0, 255);">http://honx.in/i/Utpj7IKo12ffBmGS</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 
