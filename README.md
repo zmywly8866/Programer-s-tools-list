@@ -334,6 +334,9 @@ Programer-s-tools-list
 	PicPick(截屏)<span style="font-family:宋体;">：</span><a href="http://www.picpick.org/en/"><span style="color:rgb(0, 0, 255);">http://www.picpick.org/en/</span></a>
 </p>
 <p>
+	tinypng(png图片压缩)<span style="font-family:宋体;">：</span><a href="https://tinypng.com/"><span style="color:rgb(0, 0, 255);">https://tinypng.com/</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 
