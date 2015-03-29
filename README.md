@@ -340,6 +340,9 @@ Programer-s-tools-list
 	LICEcap(屏幕录制生成gif动态图工具)<span style="font-family:宋体;">：</span><a href="http://www.cockos.com/licecap/"><span style="color:rgb(0, 0, 255);">http://www.cockos.com/licecap/</span></a>
 </p>
 <p>
+	微博是个好图床(图床)<span style="font-family:宋体;">：</span><a href="https://chrome.google.com/webstore/detail/%E5%9B%B4%E8%84%96%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%9B%BE%E5%BA%8A/pngmcllbdfgmhdgnnpfaciaolgbjplhe?utm_source=chrome-app-launcher-info-dialog"><span style="color:rgb(0, 0, 255);">https://chrome.google.com/webstore/detail/%E5%9B%B4%E8%84%96%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%9B%BE%E5%BA%8A/pngmcllbdfgmhdgnnpfaciaolgbjplhe?utm_source=chrome-app-launcher-info-dialog</span></a>
+</p>
+<p>
 	&nbsp;
 </p>
 
